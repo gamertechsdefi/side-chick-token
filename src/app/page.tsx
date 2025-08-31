@@ -241,7 +241,7 @@ export default function Home() {
         <section className="min-h-screen relative py-20" id="faq">
           <div className="container mx-auto px-4 max-w-5xl">
             <div className="text-center mb-16">
-              <h3 className="text-yellow-400 text-xl mb-2">FAQ's</h3>
+              <h3 className="text-yellow-400 text-xl mb-2">FAQ&apos;s</h3>
               <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-black">Frequently Asked Questions</h2>
             </div>
 
