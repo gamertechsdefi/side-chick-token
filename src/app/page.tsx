@@ -256,7 +256,7 @@ export default function Home() {
                   </span>
                 </summary>
                 <div className="px-6 pb-6 text-white/90">
-                  Side Chick Token ($SDC) is the boldest meme coin on the block, designed to stand out in the crypto world. We're not just another token – we're a movement that combines humor, culture, and community with real utility potential. Starting as a meme-first coin, we're building a platform where the community can thrive, laugh, and profit together.
+                  Side Chick Token ($SDC) is the boldest meme coin on the block, designed to stand out in the crypto world. We&apos;re not just another token – we&apos;re a movement that combines humor, culture, and community with real utility potential. Starting as a meme-first coin, we&apos;re building a platform where the community can thrive, laugh, and profit together.
                 </div>
               </details>
 
@@ -270,7 +270,7 @@ export default function Home() {
                   </span>
                 </summary>
                 <div className="px-6 pb-6 text-white/90">
-                  While we embrace our meme coin origins, Side Chick has a clear vision for the future. We're gradually evolving into a utility-driven token with real-world applications. Our roadmap includes staking features, NFT integrations, and various crypto utilities that will be introduced in later phases, making us more than just another meme coin.
+                  While we embrace our meme coin origins, Side Chick has a clear vision for the future. We&apos;re gradually evolving into a utility-driven token with real-world applications. Our roadmap includes staking features, NFT integrations, and various crypto utilities that will be introduced in later phases, making us more than just another meme coin.
                 </div>
               </details>
 
@@ -300,7 +300,7 @@ export default function Home() {
                   </span>
                 </summary>
                 <div className="px-6 pb-6 text-white/90">
-                  Side Chick holders become part of a vibrant and engaged community. Early adopters will be rewarded through our community initiatives, upcoming staking program, and exclusive access to NFT launches. We're building a fun, loyal, and rewarding ecosystem where everyone has the opportunity to grow together.
+                  Side Chick holders become part of a vibrant and engaged community. Early adopters will be rewarded through our community initiatives, upcoming staking program, and exclusive access to NFT launches. We&apos;re building a fun, loyal, and rewarding ecosystem where everyone has the opportunity to grow together.
                 </div>
               </details>
 
@@ -314,7 +314,7 @@ export default function Home() {
                   </span>
                 </summary>
                 <div className="px-6 pb-6 text-white/90">
-                  Our vision is to become one of the most recognizable meme coins in crypto while building real utility. Our roadmap includes launching a staking platform, developing exclusive NFT collections, securing exchange listings, and exploring various real-world applications. We're committed to continuous growth and community expansion.
+                  Our vision is to become one of the most recognizable meme coins in crypto while building real utility. Our roadmap includes launching a staking platform, developing exclusive NFT collections, securing exchange listings, and exploring various real-world applications. We&apos;re committed to continuous growth and community expansion.
                 </div>
               </details>
 
@@ -328,7 +328,7 @@ export default function Home() {
                   </span>
                 </summary>
                 <div className="px-6 pb-6 text-white/90">
-                  Join our vibrant community through our official Telegram group and Twitter/X account. Our community moderators and team members are active 24/7, organizing events, sharing updates, and engaging with members. We believe in building a strong, interactive community where everyone's voice matters.
+                  Join our vibrant community through our official Telegram group and Twitter/X account. Our community moderators and team members are active 24/7, organizing events, sharing updates, and engaging with members. We believe in building a strong, interactive community where everyone&apos;s voice matters.
                 </div>
               </details>
             </div>
