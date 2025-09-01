@@ -69,7 +69,7 @@ export default function Home() {
                   <div className="absolute -left-4 -top-4 w-12 h-12 bg-yellow-200 rounded-full flex items-center justify-center text-black text-2xl font-bold">2</div>
                   <h2 className="text-2xl md:text-3xl font-bold mb-4 text-white">GO TO PANCAKESWAP</h2>
                   <p className="text-sm md:text-base text-white/90">
-                    Go to the PancakeSwap DEX in the browser. Paste the PUFFCAT contract address in the output field
+                    Go to the PancakeSwap DEX in the browser. Paste the $SDC contract address in the output field
                   </p>
                 </div>
 
@@ -108,7 +108,7 @@ export default function Home() {
             <div className="bg-yellow-500 text-black w-full  p-6 rounded-2xl mb-4">
               <h1 className="text-2xl flex flex-col gap-3">
                 <span>Total Supply</span>
-                <span className="text-3xl">270,000,000</span>
+                <span className="text-3xl">27,000,000</span>
               </h1>
             </div>
 
@@ -242,7 +242,7 @@ export default function Home() {
           <div className="container mx-auto px-4 max-w-5xl">
             <div className="text-center mb-16">
               <h3 className="text-yellow-400 text-xl mb-2">FAQ&apos;s</h3>
-              <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-black">Frequently Asked Questions</h2>
+              <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-yellow-500">Frequently Asked Questions</h2>
             </div>
 
             <div className="space-y-4">
@@ -256,13 +256,13 @@ export default function Home() {
                   </span>
                 </summary>
                 <div className="px-6 pb-6 text-white/90">
-                  Side Chick Token ($SDC) is a meme-based cryptocurrency that brings humor and innovation to the crypto space. Built on the Solana blockchain, it combines community engagement with utility features, including planned staking and NFT integrations.
+                  Side Chick Token ($SDC) is the boldest meme coin on the block, designed to stand out in the crypto world. We're not just another token – we're a movement that combines humor, culture, and community with real utility potential. Starting as a meme-first coin, we're building a platform where the community can thrive, laugh, and profit together.
                 </div>
               </details>
 
               <details className="group bg-black bg-opacity-50 rounded-2xl">
                 <summary className="flex items-center justify-between p-6 text-xl font-semibold text-white cursor-pointer">
-                  How do I participate in the presale?
+                  What makes Side Chick different?
                   <span className="transition group-open:rotate-180">
                     <svg fill="none" height="24" shapeRendering="geometricPrecision" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" viewBox="0 0 24 24" width="24">
                       <path d="M6 9l6 6 6-6"></path>
@@ -270,13 +270,13 @@ export default function Home() {
                   </span>
                 </summary>
                 <div className="px-6 pb-6 text-white/90">
-                  To participate in the presale, connect your wallet through our presale widget, ensure you have enough SOL for your desired purchase amount plus gas fees, and follow the simple purchase instructions. The minimum contribution is 0.1 SOL.
+                  While we embrace our meme coin origins, Side Chick has a clear vision for the future. We're gradually evolving into a utility-driven token with real-world applications. Our roadmap includes staking features, NFT integrations, and various crypto utilities that will be introduced in later phases, making us more than just another meme coin.
                 </div>
               </details>
 
               <details className="group bg-black bg-opacity-50 rounded-2xl">
                 <summary className="flex items-center justify-between p-6 text-xl font-semibold text-white cursor-pointer">
-                  When can I claim my $SDC tokens?
+                  What are the tax slippages?
                   <span className="transition group-open:rotate-180">
                     <svg fill="none" height="24" shapeRendering="geometricPrecision" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" viewBox="0 0 24 24" width="24">
                       <path d="M6 9l6 6 6-6"></path>
@@ -284,13 +284,15 @@ export default function Home() {
                   </span>
                 </summary>
                 <div className="px-6 pb-6 text-white/90">
-                  Tokens will be automatically sent to your wallet immediately after the presale concludes and the initial liquidity is added. Make sure to add the token contract address to your wallet to view your $SDC balance.
+                  There is a 4% buy and sell tax on transactions. 2% to liquidity pool and 2% to the marketing wallet.
                 </div>
               </details>
 
+
+
               <details className="group bg-black bg-opacity-50 rounded-2xl">
                 <summary className="flex items-center justify-between p-6 text-xl font-semibold text-white cursor-pointer">
-                  Which wallets work with $SDC?
+                  What benefits do holders get?
                   <span className="transition group-open:rotate-180">
                     <svg fill="none" height="24" shapeRendering="geometricPrecision" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" viewBox="0 0 24 24" width="24">
                       <path d="M6 9l6 6 6-6"></path>
@@ -298,13 +300,13 @@ export default function Home() {
                   </span>
                 </summary>
                 <div className="px-6 pb-6 text-white/90">
-                  Side Chick Token works with any Solana-compatible wallet, including Phantom, Solflare, and Trust Wallet. We recommend using Phantom wallet for the best experience with our ecosystem.
+                  Side Chick holders become part of a vibrant and engaged community. Early adopters will be rewarded through our community initiatives, upcoming staking program, and exclusive access to NFT launches. We're building a fun, loyal, and rewarding ecosystem where everyone has the opportunity to grow together.
                 </div>
               </details>
 
               <details className="group bg-black bg-opacity-50 rounded-2xl">
                 <summary className="flex items-center justify-between p-6 text-xl font-semibold text-white cursor-pointer">
-                  Is there a way to contact support?
+                  What are the future plans?
                   <span className="transition group-open:rotate-180">
                     <svg fill="none" height="24" shapeRendering="geometricPrecision" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" viewBox="0 0 24 24" width="24">
                       <path d="M6 9l6 6 6-6"></path>
@@ -312,7 +314,21 @@ export default function Home() {
                   </span>
                 </summary>
                 <div className="px-6 pb-6 text-white/90">
-                  Yes! You can reach our support team through our official Telegram group or Discord server. Our community moderators and team members are available 24/7 to assist you with any questions or concerns.
+                  Our vision is to become one of the most recognizable meme coins in crypto while building real utility. Our roadmap includes launching a staking platform, developing exclusive NFT collections, securing exchange listings, and exploring various real-world applications. We're committed to continuous growth and community expansion.
+                </div>
+              </details>
+
+              <details className="group bg-black bg-opacity-50 rounded-2xl">
+                <summary className="flex items-center justify-between p-6 text-xl font-semibold text-white cursor-pointer">
+                  How can I join the community?
+                  <span className="transition group-open:rotate-180">
+                    <svg fill="none" height="24" shapeRendering="geometricPrecision" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" viewBox="0 0 24 24" width="24">
+                      <path d="M6 9l6 6 6-6"></path>
+                    </svg>
+                  </span>
+                </summary>
+                <div className="px-6 pb-6 text-white/90">
+                  Join our vibrant community through our official Telegram group and Twitter/X account. Our community moderators and team members are active 24/7, organizing events, sharing updates, and engaging with members. We believe in building a strong, interactive community where everyone's voice matters.
                 </div>
               </details>
             </div>
