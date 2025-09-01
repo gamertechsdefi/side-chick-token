@@ -141,7 +141,7 @@ export default function Home() {
               <div className="text-yellow-500 rounded-2xl p-6 transform transition-transform hover:scale-105">
                 <h3 className="flex flex-col gap-2">
                   <span className="text-3xl font-bold">10%</span>
-                  <span className="md:text-xl text-white">Team</span>
+                  <span className="md:text-xl text-white">Partnerships/CEX Listing</span>
                 </h3>
               </div>
 
