@@ -196,7 +196,7 @@ export default function Home() {
                   <h3 className="text-yellow-400 text-2xl font-bold mb-4">Phase 02</h3>
                   <ul className="text-white/90 space-y-2">
                     <li>Apply for CoinGecko & CoinMarketCap listings</li>
-                    <li>Viral meme marketing campaigns with influencersn</li>
+                    <li>Viral meme marketing campaigns with influencers</li>
                     <li>First airdrop to reward community members</li>
                     <li>Partnerships with meme pages and micro-influencers</li>
                     <li>5,000+ Holders</li>
